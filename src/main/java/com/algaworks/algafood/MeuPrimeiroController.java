@@ -13,6 +13,6 @@ public class MeuPrimeiroController {
     //irá devolver a frase do return(Resposta)
     @ResponseBody
     public String hello() {
-        return "Helloggg";
+        return "Adddd";
     }
 }
